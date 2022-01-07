@@ -23,4 +23,4 @@ This is a Restaurant management website where the name of our Restaurant is ‘P
 -JS
 -Bootstrap
 
-You can check out [here](https://athleap.herokuapp.com)
+You can check the Website out at [(https://paradiserestobar.herokuapp.com/)]
