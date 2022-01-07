@@ -16,11 +16,11 @@ This is a Restaurant management website where the name of our Restaurant is ‘P
 
 ## Tech Used
 
--PHP
--MySQL
--HTML
--CSS
--JS
--Bootstrap
+- PHP
+- MySQL
+- HTML
+- CSS
+- JS
+- Bootstrap
 
-You can check the Website out at [(https://paradiserestobar.herokuapp.com/)]
+	🔗 You can check the Website out at https://paradiserestobar.herokuapp.com/
